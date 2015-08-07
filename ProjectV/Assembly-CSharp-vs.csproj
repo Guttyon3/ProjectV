@@ -46,9 +46,10 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\scripts\Setting\GameSelect\UI\startButtonScript.cs" />
      <Compile Include="Assets\scripts\Setting\SaveData\SaveData.cs" />
-     <Compile Include="Assets\scripts\Setting\SceanChange\sceanChange.cs" />
+     <Compile Include="Assets\scripts\UI\backButtonScript.cs" />
+     <Compile Include="Assets\scripts\UI\continueButtonScript.cs" />
+     <Compile Include="Assets\scripts\UI\startButtonScript.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
